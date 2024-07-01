@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=campingstoel&label=Profile%20views&color=0e75b6&style=flat" alt="campingstoel" /> </p>
 
-- 🔭 I’m currently working on [PrintPal](https://github.com/campingstoel/printpal_)
+- 🔭 I’m currently working on [Thuis Veilig](https://github.com/campingstoel/thuisveilig)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React Native, Ruby on Rails, Firebase**
 
